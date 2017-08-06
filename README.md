@@ -1,4 +1,4 @@
-# MoMath Hackathon 2017: Project name
+# MoMath Hackathon 2017: Travelling Salesman
 
 - _Math square behavior_
 - William Qin
